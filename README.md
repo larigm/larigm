@@ -1,7 +1,6 @@
 # 🌤️ Oii, eu sou a Lari!
 
 Desenvolvedora em formação • Front-end & UI
-Amante de interfaces clean, vibes pastel e códigos bem organizados.
 
 ---
 
@@ -9,7 +8,6 @@ Amante de interfaces clean, vibes pastel e códigos bem organizados.
 
 ✨ Crio interfaces com foco em estética suave + experiência profissional.
 📚 Estudo HTML, CSS, JavaScript, Bootstrap, Materialize, PHP e MySQL.
-🧩 Desenvolvendo: sistema de gestão de bibliotecas, Adote Petz e app Litfy (Figma).
 🎀 Atualmente aprendendo Docker, monitoramento de logs e bancos não-relacionais.
 
 ---
@@ -25,17 +23,6 @@ Amante de interfaces clean, vibes pastel e códigos bem organizados.
 ![MySQL](https://img.shields.io/badge/MySQL-cedbeb?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-e2cfea?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f7d9c4?style=for-the-badge\&logo=git\&logoColor=white)
-
-> Paleta usada: #f7d5d8 · #d6e2f0 · #e8d8ff · #f5cce3 · #f9e0ae
-> Mood: pastel tech clean ✨
-
----
-
-## 🗂️ Projetos em Destaque
-
-📌 **Adote Petz** — App web com cards, modal, CRUD com localStorage e layout responsivo.
-📌 **Sistema de Biblioteca** — MVC, SQL, controle de multas, empréstimos e dashboards.
-📌 **Litfy** — App de leitura estético + gamificação (Protótipo Figma).
 
 ---
 
