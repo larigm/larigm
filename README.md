@@ -1,35 +1,68 @@
-👋 Olá, eu sou a Larissa Gomes Machado
+# 👋 Olá, eu sou a Larissa Gomes Machado
 
-💻 Desenvolvedora em formação
-📍 Guarapuava - PR, Brasil
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Sou apaixonada por tecnologia e estou em constante evolução, explorando diferentes áreas do desenvolvimento enquanto construo projetos que unem prática e criatividade. Gosto de aprender fazendo, transformar ideias em interfaces funcionais e melhorar a cada código escrito.
+### 💻 Desenvolvedora em formação | 📍 Guarapuava - PR, Brasil
 
-🚀 Sobre mim
-🎓 Estudante na área de tecnologia
-🌱 Atualmente explorando desenvolvimento web
-💡 Interesse em criar aplicações úteis e bem estruturadas
-✨ Buscando evoluir tanto no front-end quanto no back-end
-🛠️ Tecnologias que utilizo
-<div style="display: inline_block"><br> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </div>
-📂 Projetos em destaque
+---
 
-🔹 Adote Petz
-https://github.com/seu-usuario/adote-petz
+### ✨ Sobre mim
 
-🔹 UTFPR-Conecta
-https://github.com/seu-usuario/utfpr-conecta
+Sou apaixonada por tecnologia e estou em constante evolução, explorando diferentes áreas do desenvolvimento enquanto construo projetos que unem prática e criatividade. 
 
-📊 Estatísticas GitHub
-<div> <a href="https://github.com/seu-usuario"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=tokyonight"/> </a> </div>
-📫 Contato
+* **Aprender fazendo:** Foco em transformar ideias em interfaces funcionais.
+* **Evolução constante:** Cada linha de código é um passo para novos desafios.
+* **Propósito:** Busco criar soluções que gerem impacto real e facilitem o dia a dia.
 
-📧 larissagomes1029@gmail.com
+---
 
-📱 (42) 98841-2714
+### 🚀 O que estou fazendo agora
 
-✨ Um pouco mais sobre mim
+- 🎓 Estudando tecnologia e desenvolvimento web.
+- 🌱 Explorando novas ferramentas e conceitos de arquitetura.
+- 💡 Criando projetos autorais para consolidar o aprendizado.
+- 🔧 Aprimorando habilidades tanto no **Front-end** quanto no **Back-end**.
 
-Gosto de projetos que têm propósito e impacto real, principalmente aqueles que ajudam pessoas ou resolvem problemas do dia a dia. Ainda estou explorando meu caminho na tecnologia, mas cada projeto é um passo importante na construção da minha carreira 🚀
+---
 
-💭 “Aprendendo hoje para construir algo incrível amanhã.”
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left"> 
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição | Status |
+| :--- | :--- | :--- |
+| [**Adote Petz**](https://github.com/seu-usuario/adote-petz) | Plataforma para facilitar a adoção responsável de animais. | 🐾 Em desenvolvimento |
+| [**UTFPR-Conecta**](https://github.com/seu-usuario/utfpr-conecta) | Sistema para gestão de eventos acadêmicos na universidade. | 🎓 Acadêmico |
+
+---
+
+### 📫 Contato
+
+<div align="left">
+  <a href="mailto:larissagomes1029@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5542988412714" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>"Aprendendo hoje para construir algo incrível amanhã."</i> 🚀
+</p>
