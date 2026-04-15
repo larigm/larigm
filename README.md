@@ -1,38 +1,35 @@
-# 🌤️ Oii, eu sou a Lari!
+👋 Olá, eu sou a Larissa Gomes Machado
 
-Desenvolvedora em formação • Front-end & UI
+💻 Desenvolvedora em formação
+📍 Guarapuava - PR, Brasil
 
----
+Sou apaixonada por tecnologia e estou em constante evolução, explorando diferentes áreas do desenvolvimento enquanto construo projetos que unem prática e criatividade. Gosto de aprender fazendo, transformar ideias em interfaces funcionais e melhorar a cada código escrito.
 
-## 🎨 Sobre mim
+🚀 Sobre mim
+🎓 Estudante na área de tecnologia
+🌱 Atualmente explorando desenvolvimento web
+💡 Interesse em criar aplicações úteis e bem estruturadas
+✨ Buscando evoluir tanto no front-end quanto no back-end
+🛠️ Tecnologias que utilizo
+<div style="display: inline_block"><br> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </div>
+📂 Projetos em destaque
 
-✨ Crio interfaces com foco em estética suave + experiência profissional.
-📚 Estudo HTML, CSS, JavaScript, Bootstrap, Materialize, PHP e MySQL.
-🎀 Atualmente aprendendo Docker, monitoramento de logs e bancos não-relacionais.
+🔹 Adote Petz
+https://github.com/seu-usuario/adote-petz
 
----
+🔹 UTFPR-Conecta
+https://github.com/seu-usuario/utfpr-conecta
 
-## 💻 Tecnologias & Ferramentas
+📊 Estatísticas GitHub
+<div> <a href="https://github.com/seu-usuario"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=tokyonight"/> </a> </div>
+📫 Contato
 
-![HTML5](https://img.shields.io/badge/HTML5-f7d5d8?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-d6e2f0?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-e8d8ff?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize-f5cce3?style=for-the-badge\&logo=materialdesign\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f9e0ae?style=for-the-badge\&logo=javascript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-d5ccf5?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-cedbeb?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-e2cfea?style=for-the-badge\&logo=figma\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f7d9c4?style=for-the-badge\&logo=git\&logoColor=white)
+📧 larissagomes1029@gmail.com
 
----
+📱 (42) 98841-2714
 
-## 📊 Estatísticas
+✨ Um pouco mais sobre mim
 
-![Lari GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=graywhite)
+Gosto de projetos que têm propósito e impacto real, principalmente aqueles que ajudam pessoas ou resolvem problemas do dia a dia. Ainda estou explorando meu caminho na tecnologia, mas cada projeto é um passo importante na construção da minha carreira 🚀
 
----
-
-## 📫 Contato
-
-📧 **[larissagomes1029@gmail.com](mailto:larissagomes1029@gmail.com)**
-🌼 Obrigada por visitar meu perfil!
+💭 “Aprendendo hoje para construir algo incrível amanhã.”
