@@ -1,68 +1,60 @@
-# 👋 Olá, eu sou a Larissa Gomes Machado
+<div align="center">
+  
+  <h1>😉 Olá, eu sou a Larissa!</h1>
+  <p><em>Desenvolvedora em formação</em></p>
+  
+  <div align="center">
+    <a href="mailto:larissagomes1029@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" />
+    </a>
+    <a href="https://wa.me/5542988412714" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" />
+    </a>
+  </div>
+</div>
+
+<br>
+<br>
+
+## ✨ Um Pouco Sobre Mim
+
+Estudante do curso de Sistemas para Internet na UTFPR(Universidade Tecnológica Federal do Paraná). 
+Atualmente estou no 4º Período.
+Trabalho como Suporte na Prefeitura de Guarapuava
+
+- 🌱 Atualmente focada em aprimorar minhas habilidades em **Desenvolvimento Web**.
+
+---
+
+## 🛠️ Minha Caixa de Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### 💻 Desenvolvedora em formação | 📍 Guarapuava - PR, Brasil
-
----
-
-### ✨ Sobre mim
-
-Sou apaixonada por tecnologia e estou em constante evolução, explorando diferentes áreas do desenvolvimento enquanto construo projetos que unem prática e criatividade. 
-
-* **Aprender fazendo:** Foco em transformar ideias em interfaces funcionais.
-* **Evolução constante:** Cada linha de código é um passo para novos desafios.
-* **Propósito:** Busco criar soluções que gerem impacto real e facilitem o dia a dia.
-
----
-
-### 🚀 O que estou fazendo agora
-
-- 🎓 Estudando tecnologia e desenvolvimento web.
-- 🌱 Explorando novas ferramentas e conceitos de arquitetura.
-- 💡 Criando projetos autorais para consolidar o aprendizado.
-- 🔧 Aprimorando habilidades tanto no **Front-end** quanto no **Back-end**.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="left"> 
-  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" />
+  <img src="https://img.icons8.com/?size=100&id=102492&format=png&color=000000" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=100&id=112069&format=png&color=000000" alt="CSS3" />
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript" />
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" />
+  <img src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="GitHub" />
 </div>
 
 ---
 
-### 📂 Projetos em Destaque
+## 📂 Meus Projetos
 
-| Projeto | Descrição | Status |
-| :--- | :--- | :--- |
-| [**Adote Petz**](https://github.com/seu-usuario/adote-petz) | Plataforma para facilitar a adoção responsável de animais. | 🐾 Em desenvolvimento |
-| [**UTFPR-Conecta**](https://github.com/seu-usuario/utfpr-conecta) | Sistema para gestão de eventos acadêmicos na universidade. | 🎓 Acadêmico |
-
----
-
-### 📫 Contato
-
-<div align="left">
-  <a href="mailto:larissagomes1029@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/5542988412714" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+<div align="center">
+  <h3>🎓 UTFPR-Conecta</h3>
+  <p>Sistema desenvolvido para facilitar a gestão e a conexão em eventos acadêmicos.</p>
+  
+  <a href="https://github.com/seu-usuario/utfpr-conecta" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositório-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório UTFPR-Conecta" />
   </a>
 </div>
 
----
+<br>
 
-<p align="center">
-  <i>"Aprendendo hoje para construir algo incrível amanhã."</i> 🚀
-</p>
+### Outros Projetos
+
+- 🐾 **Adote Petz:** Plataforma para conectar animais de abrigo a novos lares.
+  <a href="https://github.com/seu-usuario/adote-petz" target="_blank"><code>[Ver no GitHub]</code></a>
+
+---
