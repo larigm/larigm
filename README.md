@@ -10,6 +10,9 @@
     <a href="https://wa.me/5542988412714" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" width="50" />
     </a>
+     <a href="https://wa.me/5542988412714" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=339AF0" alt="Linkedin" width="50" />
+    </a>
   </div>
 </div>
 
@@ -29,11 +32,13 @@ Trabalho como suporte na Prefeitura de Guarapuava, onde tenho a oportunidade de 
 
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=102492&format=png&color=000000" alt="HTML5" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=112069&format=png&color=000000" alt="CSS3" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=102492&format=png&color=F08833" alt="HTML5" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=112069&format=png&color=2680FFF2" alt="CSS3" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript" width="40" />
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="GitHub" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=106562&format=png&color=FFFFFFF2" alt="GitHub" width="40"/>
+ 
+  
 </div>
 
 ---
