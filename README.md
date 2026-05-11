@@ -10,7 +10,7 @@
     <a href="https://wa.me/5542988412714" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" width="50" />
     </a>
-     <a href="https://wa.me/5542988412714" target="_blank">
+     <a href="https://www.linkedin.com/in/larissagomesmachado/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=339AF0" alt="Linkedin" width="50" />
     </a>
   </div>
