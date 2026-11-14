@@ -1,69 +1,107 @@
-<div align="center">
-  
-  <h1>😉 Olá, eu sou a Larissa!</h1>
-  <p><em>Desenvolvedora em formação</em></p>
-  
-  <div align="center">
-    <a href="mailto:larissagomes1029@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="50" />
-    </a>
-    <a href="https://wa.me/5542988412714" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" width="50" />
-    </a>
-     <a href="https://www.linkedin.com/in/larissagomesmachado/" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=339AF0" alt="Linkedin" width="50" />
-    </a>
-  </div>
-</div>
+ <div align="center">
+
+# 👋 Olá, eu sou a Larissa Gomes!
+
+### 💻 Desenvolvedora de Software | Front-End
+
+Estudante de Sistemas para Internet na UTFPR e Estagiária de Desenvolvimento de Software.
 
 <br>
-<br>
 
-## ✨ Um Pouco Sobre Mim
+<a href="mailto:larissagomes1029@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/5542988412714">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/larissagomesmachado/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Sou estudante de Sistemas para Internet na UTFPR (Universidade Tecnológica Federal do Paraná) e atualmente estou no 4º período. 
-Trabalho como suporte na Prefeitura de Guarapuava, onde tenho a oportunidade de lidar com diferentes sistemas e ajudar na resolução de problemas do dia a dia.
-
-- 🌱 Atualmente focada em aprimorar minhas habilidades em **Desenvolvimento Web**.
-
----
-
-## 🛠️ Minha Caixa de Ferramentas
-
-<div align="center">
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=102492&format=png&color=F08833" alt="HTML5" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=112069&format=png&color=2680FFF2" alt="CSS3" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=106562&format=png&color=FFFFFFF2" alt="GitHub" width="40"/>
- 
-  
 </div>
 
 ---
 
-## 📂 Meus Projetos
+## ✨ Sobre mim
 
-<div align="center">
-  <h3>🎓 UTFPR-Conecta</h3>
-  <p>Sistema desenvolvido para facilitar a gestão e a conexão em eventos acadêmicos.</p>
-  
-  <a href="https://github.com/larigm/UTFPR-Conecta" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Repositório-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório UTFPR-Conecta" />
-  </a>
+Sou estudante de **Sistemas para Internet na Universidade Tecnológica Federal do Paraná (UTFPR)**, atualmente no 5º período, e Estagiária de Desenvolvimento de Software.
+
+Minha trajetória na tecnologia começou com suporte técnico, experiência que me proporcionou contato com diferentes sistemas, resolução de problemas e atendimento a usuários. Atualmente, estou direcionando minha carreira para o desenvolvimento de software.
+
+Gosto de transformar ideias em soluções funcionais, explorar novas tecnologias e desenvolver projetos que unam criatividade, organização e tecnologia.
+
+- 🎓 Sistemas para Internet — UTFPR.
+- 💼 Estagiária de Desenvolvimento de Software.
+- 💻 Interesse em Desenvolvimento Web e Inteligência Artificial.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+**Front-End**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </div>
 
-<div align="center">
-  <h3>🐾 Adote Petz</h3>
-  <p>Plataforma para conectar animais de abrigo a novos lares.</p>
-  
-  <a href="https://github.com/larigm/Petz" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Repositório-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório Adote Petz" />
-  </a>
+**Back-End e Banco de Dados**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,go,mysql,postgres,mongodb" />
 </div>
-<br>
 
+**Ferramentas**
 
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+### 🎓 UTFPR-Conecta
+
+Sistema desenvolvido para facilitar a gestão e a conexão em eventos acadêmicos.
+
+<a href="https://github.com/larigm/UTFPR-Conecta">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 🐾 Adote Petz
+
+Plataforma voltada à adoção responsável, conectando animais de abrigo a pessoas interessadas em oferecer um novo lar.
+
+<a href="https://github.com/larigm/Petz">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 📋 CanDo
+
+Aplicativo de organização de tarefas com subtarefas, categorias, prioridades e acompanhamento de progresso.
+
+<a href="https://github.com/larigm/can-do">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=larigm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigm&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
